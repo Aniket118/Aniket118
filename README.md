@@ -1,4 +1,4 @@
-<img src="/AR.png" alt="Banner" width="300" height="300" align="middle" />
+<img src="/AR.png" alt="Banner" width="300" height="300" align="center" />
 
 ### Hi there Welcome to my Github page 👋
 
