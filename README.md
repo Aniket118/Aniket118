@@ -1,4 +1,5 @@
-<img src="/banner.png" alt="Banner" width="800" height="300" align="center" />
+<!-- <img src="/banner.png" alt="Banner" width="800" height="300" align="center" /> -->
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"/>
 
 ### Hi there Welcome to my Github page 👋
 
