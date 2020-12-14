@@ -28,9 +28,12 @@ My name is Aniket Ranjan and I am a web developer and open source enthusiast fro
  - I do competitive coding and my development is manily focus on Backend side.
  - I am looking for some good open source project.
  
- ### Contact me at https://www.linkedin.com/in/rampagee/
- 
- - I am open for collaborations, so if you looking for the person in these technology. You can contact me on above link!
+  ### Contact me: <a href="https://www.linkedin.com/in/rampagee/">
+   <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/LinkedIn-0e76a8?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a> 
  
  ---
  
