@@ -36,14 +36,15 @@ My name is Aniket Ranjan and I am a web developer and open source enthusiast fro
 </a> 
  
  ---
- 
- ### Github stats
-<p>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aniket118" alt="Github Streak Stats">
+
+---
+
+ ### Github stats
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aniket118&count_private=true&title_color=FD9047&icon_color=FD9047&text_color=0C2233&custom_title=Aniket+Ranjan's+GitHub+Stats"/>
 
-</p>
 ---
 
 <p>
