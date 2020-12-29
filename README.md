@@ -3,7 +3,7 @@
 
 ### Hi there Welcome to my Github page 👋
 
-My name is Aniket Ranjan and I am a web developer and open source enthusiast from India. I have lot of intrest in competetive coding. I do a lot of things, and some of them you may even find intresting. 
+I am Aniket Ranjan from India and I'm interested in web development and open source enthusiast(django). I am very passionate about competetive coding and spend much of my doing this.
 
 ---
 
@@ -24,8 +24,8 @@ My name is Aniket Ranjan and I am a web developer and open source enthusiast fro
 
 
  ---
- - I'm currently a BTech UG. I'm currently working on some opensource project.
- - I do competitive coding and my development is manily focus on Backend side.
+ - I'm currently a BTech UG and currently working on some open-source project.
+ - I do competitive coding and mainly focused on Backend side of web development.
  - I am looking for some good open source project.
  
   ### Contact me: <a href="https://www.linkedin.com/in/rampagee/">
